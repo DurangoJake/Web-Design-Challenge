@@ -1,0 +1,30 @@
+.btn-success {
+    color: #fff;
+    background-color: #16a0ab;
+    border-color: #16a0ab;
+    font-family: Georgia;
+    padding: 10px 16px;
+    border-radius: 3%;
+    font-weight: bold;
+    box-shadow:none;
+}
+
+
+h1{
+    color:  #16a0ab;
+    font-family: Georgia;
+    font-weight: bold;
+}
+.body1{
+    border-style: solid;
+    border-color:rgb(231, 225, 225);
+    border-top-width: 75px;
+    border-right-width: 100px;
+    border-left-width: 100px;
+    border-bottom-width: 25px;
+    padding: 55px 80px;
+}
+thead{
+    font-weight: bolder;
+}
+
