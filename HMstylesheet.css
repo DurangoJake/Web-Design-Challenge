@@ -64,3 +64,7 @@ thead{
 body{
     background-color:rgb(231, 225, 225); 
 }
+#borderpic{
+    border-width: 10px;
+    border-color: blanchedalmond;
+}
