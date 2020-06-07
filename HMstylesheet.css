@@ -1,3 +1,6 @@
+
+
+
 .btn-success {
     color: #fff;
     background-color: #16a0ab;
@@ -15,16 +18,46 @@ h1{
     font-family: Georgia;
     font-weight: bold;
 }
-.body1{
-    border-style: solid;
-    border-color:rgb(231, 225, 225);
-    border-top-width: 75px;
-    border-right-width: 100px;
-    border-left-width: 100px;
-    border-bottom-width: 25px;
-    padding: 55px 80px;
+h2{
+    color:  #16a0ab;
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+h3{
+    color:  #16a0ab;
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
 }
 thead{
     font-weight: bolder;
 }
 
+.abc{
+    padding: 10px;
+}
+
+.body1{
+    
+    background-color:rgb(231, 225, 225);
+    
+    padding: 35px;
+}
+
+.elementbox{
+    background-color: white;
+    padding: none;
+    
+}
+.landing1{
+    
+    padding:none;
+    border-style: solid;
+    border-color:rgb(231, 225, 225);
+    border-right-width: 80px;
+    
+    
+}
